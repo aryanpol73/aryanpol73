@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Aryan Pol 👋</h1>
-
-<h3 align="center">
-AI Product Developer • Full Stack Builder • AI & Data Science Student
-</h3>
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Aryan%20Pol&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Real-World%20Products%20and%20Scalable%20Web%20Applications&descAlignY=58"
+  />
+</p>
 
 <p align="center">
   <a href="https://aryan-pol-dev.vercel.app">Portfolio</a> •
@@ -13,134 +13,228 @@ AI Product Developer • Full Stack Builder • AI & Data Science Student
 
 ---
 
-## 🚀 About Me
-
-🎓 Artificial Intelligence & Data Science student at DY Patil Akurdi  
-🤖 Strong interest in AI products, LLM apps, and automation  
-🌐 Building full-stack applications and PWAs  
-⚡ Focused on shipping practical projects instead of just tutorials  
-🧠 Learning deeply about AI systems, product development, and scalable applications  
-🏏 Cricket enthusiast  
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Real-World+AI+Products;Focused+on+Scalable+Applications;AI+%2B+Automation+Focused;Shipping+Projects+People+Actually+Use"
+  />
+</p>
 
 ---
 
-## 💡 Profile Summary
+# 📊 GitHub Analytics
 
-A 2nd-year B.Tech student (AI & DS) interested in software and AI product development.  
-Seeking an internship to apply programming skills, build real-world applications, and gain industry experience.
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryanpol73&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpol73&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-I build real-world AI products, modern web apps, and automation-focused solutions.  
-Currently focused on becoming a high-level AI Product Developer by combining software engineering, product thinking, and AI systems.
-
----
-
-## 🛠️ Skills
-
-### 👨‍💻 Languages
-- Python
-- C++
-
-### 🎨 Frontend
-- HTML
-- CSS
-- JavaScript
-- React.js
-
-### ⚙️ Backend
-- Node.js
-- Express.js
-- RESTAPI
-
-### 🗄️ Database
-- MongoDB
-- MySQL
-
-### 🧰 Tools
-- MS Excel (Advanced)
-- GitHub
-
-### 🧠 Core
-- Data Structures & Algorithms
-- Active LeetCode Practice
-- Problem Solving
-
-### 🚀 Deployment
-- Vercel
-- Netlify
-- Render
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=aryanpol73&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-# 📌 Projects
+# 🚀 About Me
 
-## 🏏 LBPL Cricket App *(Deployed)*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Developed a PWA to display real-time tournament updates, match info, points table, fixtures, player profiles & stats, and community features.
+### 👨‍🎓 Education
 
-### 📈 Real Usage During Tournament
-- 600+ app downloads
-- 4.5k+ users viewed the web app
-- 19k+ total page views
+- B.Tech in Artificial Intelligence & Data Science
+- DY Patil Akurdi
+- 2nd Year Student
 
-🔗 Website: https://lbplofficial.com
+### 🧠 Interests
+
+- AI Products
+- LLM Applications
+- Full Stack Systems
+- Automation
+- Product Engineering
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Current Focus
+
+- Shipping practical projects
+- Building scalable web applications
+- Learning scalable systems
+- Improving DSA & problem solving
+- Creating products with real usage
+
+### 🏏 Fun Fact
+
+Cricket enthusiast
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔧 API Tester Lite *(Deployed)*
+# 💡 Profile Summary
 
-**Tech Stack:** React.js, Node.js, Express.js
+> I build real-world AI products, modern web applications, and automation-focused solutions while learning deeply about scalable systems, AI engineering, and product development.
 
-- Built a lightweight tool to test REST APIs (GET, POST, PUT, DELETE)
-- Implemented environment variables and request history
-- Developed a full-stack app for efficient API debugging
-
-🔗 Website: https://api-tester-lite.vercel.app
+Seeking internship opportunities to apply programming skills, build impactful products, and gain real-world industry experience.
 
 ---
 
-## 🧠 FairRoute *(Deployed)*
+# 🛠️ Tech Stack
 
-FairRoute – Developed a causal AI-powered auditing system during Google Solution Challenge 2026 (Hack2Skills) to detect and reduce geographic bias in gig worker earnings using causal inference and AI-driven recommendations.
-
-🔗 Website: https://fair-route.vercel.app
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
 
 ---
 
-## 🔐 Evernest *(Deployed)*
+# 📈 Real-World Impact
 
-Evernest — A secure digital asset management platform designed to store, organize, and protect sensitive personal and family documents.
+| 🚀 Metric | 📊 Achievement |
+|---|---|
+| LBPL Cricket App Downloads | 600+ |
+| Users Reached | 4.5k+ |
+| Total Page Views | 19k+ |
+| Production Projects | Multiple Deployed Apps |
+
+---
+
+# 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🏏 LBPL Cricket App
+
+Real-time tournament management PWA with:
+
+- Match updates
+- Fixtures
+- Points table
+- Player stats
+- Community features
+
+### 📊 Impact
+
+- 600+ downloads
+- 4.5k+ users
+- 19k+ page views
+
+🔗 https://lbplofficial.com
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔧 API Tester Lite
+
+Lightweight REST API testing platform.
 
 ### Features
+
+- GET / POST / PUT / DELETE
+- Request history
+- Environment variables
+- API debugging tools
+
+### Stack
+
+React.js • Node.js • Express.js
+
+🔗 https://api-tester-lite.vercel.app
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🧠 FairRoute
+
+AI-powered auditing system built during Google Solution Challenge 2026 (Hack2Skills).
+
+### Focus
+
+- Geographic bias detection
+- Causal inference
+- AI-driven recommendations
+- Gig worker fairness analysis
+
+🔗 https://fair-route.vercel.app
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔐 Evernest
+
+Secure digital asset management platform.
+
+### Features
+
 - Encrypted storage
 - Secure authentication
 - File integrity verification
 - Structured document management
 
-Supports assets including:
+### Assets Supported
+
 - Medical records
-- Legal documents
 - IDs
+- Legal documents
 - Financial files
 
----
-
-## 📈 Current Focus
-
-- AI Product Development
-- Full-Stack Engineering
-- LLM Applications
-- Automation Systems
-- Scalable AI Products
-- DSA & Problem Solving
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Connect With Me
+# 🧠 Current Focus
 
-🌐 Portfolio: https://aryan-pol-dev.vercel.app
+```txt
+AI Product Development
+Full-Stack Engineering
+LLM Applications
+Automation Systems
+Scalable AI Products
+DSA & Problem Solving
+```
+
+---
+
+# 🏆 Achievements & Growth
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aryanpol73&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  🌐 <a href="https://aryan-pol-dev.vercel.app">Portfolio Website</a>
+</p>
 
 ---
 
 <p align="center">
-  Building practical AI products one project at a time 🚀
+  🚀 Building practical AI products one project at a time
+</p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer"
+  />
 </p>
