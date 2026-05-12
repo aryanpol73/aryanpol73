@@ -87,7 +87,7 @@ Seeking internship opportunities to apply programming skills, build impactful pr
 
 ---
 
-# 📈 Real-World Impact
+# 📈 LBPL Cricket App - Real-World Impact
 
 | 🚀 Metric | 📊 Achievement |
 |---|---|
@@ -105,7 +105,7 @@ Seeking internship opportunities to apply programming skills, build impactful pr
 
 ## 🏏 LBPL Cricket App
 
-Real-time tournament management PWA with:
+Real-time live scoring & tournament management PWA with:
 
 - Match updates
 - Fixtures
