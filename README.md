@@ -81,9 +81,8 @@ Seeking internship opportunities to apply programming skills, build impactful pr
 | 🚀 Metric | 📊 Achievement |
 |---|---|
 | LBPL Cricket App Downloads | 600+ |
-| Users Reached | 4.5k+ |
-| Total Page Views | 19k+ |
-| Production Projects | Multiple Deployed Apps |
+| Users Reached | 5k+ |
+| Total Page Views | 20k+ |
 
 ---
 
@@ -106,8 +105,8 @@ Real-time tournament management PWA with:
 ### 📊 Impact
 
 - 600+ downloads
-- 4.5k+ users
-- 19k+ page views
+- 5k+ users
+- 20k+ page views
 
 🔗 https://lbplofficial.com
 
@@ -177,6 +176,18 @@ Secure digital asset management platform.
 - Legal documents
 - Financial files
 
+## 🤖 TaskGPT 
+AI-powered productivity and task management platform focused on execution and workflow management. 
+
+### Features
+
+- AI-powered task organization
+- Smart productivity workflows
+- Clean and responsive UI
+- Real-time task management
+
+🔗 https://task-gpt.lovable.app
+
 </td>
 </tr>
 </table>
@@ -188,6 +199,7 @@ Secure digital asset management platform.
 ```txt
 AI Product Development
 Full-Stack Engineering
+ML Foundations & NLP 
 LLM Applications
 Automation Systems
 Scalable AI Products
@@ -204,13 +216,6 @@ DSA & Problem Solving
 
 ---
 
-# 📫 Connect With Me
-
-<p align="center">
-  🌐 <a href="https://aryan-pol-dev.vercel.app">Portfolio Website</a>
-</p>
-
----
 
 <p align="center">
   🚀 Building practical AI products one project at a time
