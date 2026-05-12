@@ -74,6 +74,17 @@ Seeking internship opportunities to apply programming skills, build impactful pr
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode" />
 </p>
 
+<br> 
+
+### 💻 Languages - Python • C++ 
+### 🎨 Frontend - HTML • CSS • JavaScript • React.js 
+### ⚙️ Backend - Node.js • Express.js 
+### 🗄️ Database - MongoDB • MySQL 
+### 🛠️ Tools - Git • GitHub • VS Code • MS Excel (Advanced) 
+### 🚀 Deployment - Vercel • Netlify • Render 
+### 🧠 Core Concepts - Data Structures & Algorithms • Problem Solving 
+### 📈 Active LeetCode Practice
+
 ---
 
 # 📈 Real-World Impact
