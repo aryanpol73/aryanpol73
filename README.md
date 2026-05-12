@@ -21,20 +21,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryanpol73&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpol73&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=aryanpol73&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🚀 About Me
 
 <table>
@@ -50,10 +36,11 @@
 ### 🧠 Interests
 
 - AI Products
-- LLM Applications
+- ML, LLMs, RAG Applications
 - Full Stack Systems
+- Agentic AI
 - Automation
-- Product Engineering
+- Prompt Engineering
 
 </td>
 
@@ -63,13 +50,9 @@
 
 - Shipping practical projects
 - Building scalable web applications
-- Learning scalable systems
+- Learning MERN Stacks & ML
 - Improving DSA & problem solving
 - Creating products with real usage
-
-### 🏏 Fun Fact
-
-Cricket enthusiast
 
 </td>
 </tr>
