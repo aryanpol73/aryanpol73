@@ -49,9 +49,11 @@ Currently focused on becoming a high-level AI Product Developer by combining sof
 ### ⚙️ Backend
 - Node.js
 - Express.js
+- RESTAPI
 
 ### 🗄️ Database
 - MongoDB
+- MySQL
 
 ### 🧰 Tools
 - MS Excel (Advanced)
