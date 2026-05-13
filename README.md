@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://aryan-pol-dev.vercel.app">Portfolio</a> •
   <a href="https://lbplofficial.com">LBPL App</a> •
   <a href="https://api-tester-lite.vercel.app">API Tester Lite</a> •
   <a href="https://fair-route.vercel.app">FairRoute</a>
