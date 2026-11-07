@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="70" viewBox="0 0 830 70" fill="none" role="img">
+<style>
+.w{stroke-dasharray:6 8;animation:w 2.4s linear infinite}@keyframes w{to{stroke-dashoffset:-28}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs>
+<linearGradient id="fg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".25" stop-color="#38BDF8"/><stop offset=".55" stop-color="#818CF8"/><stop offset=".8" stop-color="#C084FC"/><stop offset="1" stop-color="#C084FC" stop-opacity="0"/></linearGradient>
+</defs>
+
+<path d="M0 36 L10 38.0 L20 40.0 L30 41.9 L40 43.3 L50 44.3 L60 44.7 L70 44.5 L80 43.7 L90 42.3 L100 40.4 L110 38.2 L120 35.9 L130 33.5 L140 31.4 L150 29.7 L160 28.4 L170 27.7 L180 27.6 L190 28.2 L200 29.2 L210 30.7 L220 32.4 L230 34.4 L240 36.2 L250 37.9 L260 39.3 L270 40.4 L280 40.9 L290 41.1 L300 40.8 L310 40.2 L320 39.4 L330 38.4 L340 37.4 L350 36.6 L360 35.9 L370 35.5 L380 35.3 L390 35.4 L400 35.7 L410 36.1 L420 36.6 L430 37.0 L440 37.3 L450 37.3 L460 37.1 L470 36.6 L480 35.8 L490 34.8 L500 33.6 L510 32.5 L520 31.5 L530 30.7 L540 30.2 L550 30.2 L560 30.6 L570 31.6 L580 32.9 L590 34.7 L600 36.6 L610 38.7 L620 40.6 L630 42.4 L640 43.7 L650 44.5 L660 44.7 L670 44.3 L680 43.3 L690 41.7 L700 39.7 L710 37.5 L720 35.1 L730 32.8 L740 30.8 L750 29.2 L760 28.1 L770 27.6 L780 27.7 L790 28.4 L800 29.6 L810 31.2 L820 33.0 L830 34.9" stroke="url(#fg)" stroke-width="1.6" class="w"/>
+<text x="415.0" y="64" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#66768B" letter-spacing="2">ARYAN POL  ·  PUNE, INDIA</text>
+
+</svg>

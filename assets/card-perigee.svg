@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="348" viewBox="0 0 440 348" fill="none" role="img">
+<style>
+
+.d{animation:d 2s ease-in-out infinite}@keyframes d{0%,100%{opacity:1}50%{opacity:.35}}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs>
+<linearGradient id="bgperigee" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0F1622"/><stop offset="1" stop-color="#0A0F18"/></linearGradient><radialGradient id="glperigee" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#818CF8" stop-opacity=".20"/><stop offset="1" stop-color="#818CF8" stop-opacity="0"/></radialGradient><linearGradient id="tbperigee" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#818CF8"/><stop offset="1" stop-color="#818CF8" stop-opacity="0"/></linearGradient><clipPath id="cpperigee"><rect width="440" height="348" rx="16"/></clipPath>
+</defs>
+
+<g clip-path="url(#cpperigee)">
+  <rect width="440" height="348" fill="url(#bgperigee)"/>
+  <ellipse cx="410" cy="20" rx="200" ry="140" fill="url(#glperigee)"/>
+  <rect width="440" height="3" fill="url(#tbperigee)"/>
+  <text x="28" y="36" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" fill="#66768B"><tspan fill="#818CF8" font-weight="700">02</tspan>  ↗ perigee-space.pages.dev</text>
+  <rect x="317.2" y="19" width="94.8" height="24" rx="12" fill="#0B121C" stroke="#1F3047"/>
+  <circle class="d" cx="331.2" cy="31" r="3.5" fill="#34D399"/>
+  <text x="342.2" y="35" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#9AA8BB" letter-spacing="1">DEPLOYED</text>
+  <text x="28" y="84" font-family="Inter, 'SF Pro Display', 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="#E7EDF5" letter-spacing="0.3">Perigee</text>
+  <text x="28" y="107" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#818CF8" letter-spacing="1.2">ORBITAL-DEBRIS RISK DASHBOARD</text>
+  <text x="28" y="134" font-family="Inter, 'SF Pro Display', 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="13" fill="#9AA8BB">Live 3D globe of ~20,000 objects from</text><text x="28" y="154" font-family="Inter, 'SF Pro Display', 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="13" fill="#9AA8BB">CelesTrak data, a week of estimated close</text><text x="28" y="174" font-family="Inter, 'SF Pro Display', 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="13" fill="#9AA8BB">approaches and a breakup simulator. LightGBM</text><text x="28" y="194" font-family="Inter, 'SF Pro Display', 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="13" fill="#9AA8BB">risk index: PR-AUC 0.70 vs 0.39 best baseline.</text>
+  <rect x="28" y="212" width="384" height="1" fill="#1B2635"/>
+  <text x="28" y="244" font-family="Inter, 'SF Pro Display', 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#818CF8">~20K</text><text x="28" y="262" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#66768B">objects tracked</text><text x="228" y="244" font-family="Inter, 'SF Pro Display', 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#818CF8">100%</text><text x="228" y="262" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#66768B">SOCRATES match</text>
+  <rect x="28" y="268" width="384" height="1" fill="#1B2635"/>
+  <rect x="28.0" y="280" width="56.2" height="22" rx="6" fill="#101926" stroke="#1E2B3D"/><text x="56.1" y="295.0" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#CBD6E4">Python</text><rect x="90.2" y="280" width="62.9" height="22" rx="6" fill="#101926" stroke="#1E2B3D"/><text x="121.7" y="295.0" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#CBD6E4">FastAPI</text><rect x="159.1" y="280" width="69.6" height="22" rx="6" fill="#101926" stroke="#1E2B3D"/><text x="193.9" y="295.0" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#CBD6E4">LightGBM</text><rect x="234.7" y="280" width="49.5" height="22" rx="6" fill="#101926" stroke="#1E2B3D"/><text x="259.5" y="295.0" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#CBD6E4">React</text><rect x="290.2" y="280" width="83.0" height="22" rx="6" fill="#101926" stroke="#1E2B3D"/><text x="331.7" y="295.0" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#CBD6E4">TypeScript</text><rect x="28.0" y="308" width="69.6" height="22" rx="6" fill="#101926" stroke="#1E2B3D"/><text x="62.8" y="323.0" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#CBD6E4">CesiumJS</text><rect x="103.6" y="308" width="123.2" height="22" rx="6" fill="#101926" stroke="#1E2B3D"/><text x="165.2" y="323.0" text-anchor="middle" font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#CBD6E4">Cloudflare Pages</text>
+</g>
+<rect x="0.5" y="0.5" width="439" height="347" rx="15.5" stroke="#1B2635"/>
+
+</svg>
