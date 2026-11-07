@@ -21,7 +21,7 @@
 <img src="assets/sec-projects.svg" alt="02 Selected Projects" width="100%">
 
 <p align="center">
-  <a href="https://lbplofficial.com"><img src="assets/card-lbpl.svg" alt="LBPL Cricket App — live-scoring PWA for an 18-team, 33-match tournament. React, TypeScript, Vite, CSS, Supabase, Gemini API." width="49%"></a>
+  <a href="https://lbplofficial.com"><img src="assets/card-lbpl.svg" alt="LBPL Cricket App — live-scoring PWA for an 18-team, 33-match tournament. React, TypeScript, Tailwind CSS, Vite, CSS, Supabase, Gemini API." width="49%"></a>
   <a href="https://perigee-space.pages.dev"><img src="assets/card-perigee.svg" alt="Perigee — orbital-debris risk dashboard with a LightGBM risk index. Python, FastAPI, React, CesiumJS." width="49%"></a>
 </p>
 <p align="center">
@@ -42,7 +42,7 @@
 <img src="assets/sec-stack.svg" alt="03 Technical Stack" width="100%">
 
 <p align="center">
-  <img src="assets/stack.svg" alt="Technical stack. Languages: Python, JavaScript, TypeScript, C++. Frontend: React, Next.js, Vite, Tailwind CSS, HTML, CSS, CesiumJS. Backend: Node.js, Express, FastAPI, REST APIs, WebSockets, Socket.IO. Data and state: MongoDB, SQL, Supabase, Redis, Yjs. AI and ML: LLM integration, AI agents, machine learning, LightGBM, Gemini API, MCP. Tooling and QA: Git, GitHub, GitHub Actions, Docker, Vitest, Playwright, MS Excel. Deployment: Vercel, Netlify, Render, Cloudflare Pages. Engineering: real-time systems, PWA, WebAuthn, accessibility audits, CI/CD. Fundamentals: data structures and algorithms, problem solving." width="100%">
+  <img src="assets/stack.svg" alt="Technical stack. Languages: Python, JavaScript, TypeScript, C++. Frontend: React, Next.js, Vite, HTML, CSS. Backend: Node.js, Express, FastAPI, REST APIs, WebSockets. Data and state: MongoDB, MySQL, Supabase, Redis. AI and ML: LLM integration, AI agents, machine learning, MCP. Tooling and QA: Git, GitHub, GitHub Actions, Docker, Vitest, Playwright, MS Excel. Deployment: Vercel, Netlify, Render, Cloudflare Pages. Engineering: real-time systems, PWA, WebAuthn, accessibility audits, CI/CD. Fundamentals: data structures and algorithms, problem solving." width="100%">
 </p>
 
 <br>
