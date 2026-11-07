@@ -21,7 +21,7 @@
 <img src="assets/sec-projects.svg" alt="02 Selected Projects" width="100%">
 
 <p align="center">
-  <a href="https://lbplofficial.com"><img src="assets/card-lbpl.svg" alt="LBPL Cricket App — live-scoring PWA for an 18-team, 33-match tournament. React, TypeScript, Vite, Tailwind CSS, Supabase, Gemini API." width="49%"></a>
+  <a href="https://lbplofficial.com"><img src="assets/card-lbpl.svg" alt="LBPL Cricket App — live-scoring PWA for an 18-team, 33-match tournament. React, TypeScript, Vite, CSS, Supabase, Gemini API." width="49%"></a>
   <a href="https://perigee-space.pages.dev"><img src="assets/card-perigee.svg" alt="Perigee — orbital-debris risk dashboard with a LightGBM risk index. Python, FastAPI, React, CesiumJS." width="49%"></a>
 </p>
 <p align="center">
