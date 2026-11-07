@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Aryan Pol — Full-Stack Developer · AI Systems" width="100%">
+  <img src="assets/header.svg" alt="Aryan Pol — Full-Stack Developer" width="100%">
 </p>
 
 <p align="center">
